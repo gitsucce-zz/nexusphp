@@ -1,6 +1,6 @@
 ## CVE-2017-12981
 ## nexusphp v1.5.beta5.20120707 sql injection
-
+### powered by minhaizhao from Anyuntec
 ### version: v1.5.beta5.20120707
 ### Download link:https://sourceforge.net/projects/nexusphp/
 #### /nexusphp.v1.5.beta5.20120707/forummanage.php  Line 63
